@@ -1,11 +1,11 @@
 urllib
 requests
-bs4
+beautifulsoup4
 numpy
 keras
 scikit-learn
 imgsim
-cv2
+opencv-python
 concurrent
 threading
 argparse
