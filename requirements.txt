@@ -1,4 +1,3 @@
-urllib
 requests
 beautifulsoup4
 numpy
@@ -6,11 +5,5 @@ keras
 scikit-learn
 imgsim
 opencv-python
-concurrent
-threading
-argparse
-tempfile
 schedule
-pickle
-datetime
 streamlit
